@@ -1,0 +1,16 @@
+.hero-img {
+    background-image: url('https://i.insider.com/5ad7b7a0cd862434008b47ab?width=1000&format=jpeg&auto=webp');
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.object-fit-contain{
+    object-fit: cover;
+  }
+
+  .spill{
+    margin-bottom: -18px;
+  }
